@@ -1,0 +1,31 @@
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color:green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.navbar-brand{
+    font-style: italic;
+    text-decoration:underline;
+}
+.nav-container ul li a{
+    color:#000;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left:150px;
+    margin-right: 50px;
+ 
+}
+.nav-container{
+    background-color:cadetblue;
+    width: 100%;
+}
+.nav-container ul li a:hover{
+    color: red;
+    font-style: italic;
+    text-decoration:underline;
+}
+.nav-container ul li{
+  
+}
